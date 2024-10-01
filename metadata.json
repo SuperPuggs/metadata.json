@@ -1,0 +1,33 @@
+{
+  "name": "SuperPuggs",
+  "symbol": "SPuggs",
+  "uri": "https://link-para-o-seu-json-de-metadados.json",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/SuperPuggs/crypto/refs/heads/main/logo.png",
+  "description": "SuperPuggs! We are a vibrant and passionate community that brings together gamers and cryptocurrency enthusiasts, with a special love for animals, especially adorable Pugs. Here, we seek a space where friendship, fun, and growth go hand in hand.",
+  "external_url": "https://www.superpuggs.com",
+  "telegram": "https://t.me/+zvhmHdOPDJFmNTk8",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Community",
+      "value": "Gamers and Crypto Enthusiasts"
+    }
+  ],
+  "collection": {
+    "name": "SuperPuggs Collection",
+    "family": "SuperPuggs"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SuperPuggs/crypto/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
