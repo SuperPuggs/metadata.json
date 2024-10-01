@@ -1,7 +1,7 @@
 {
   "name": "SuperPuggs",
   "symbol": "SPuggs",
-  "uri": "https://link-para-o-seu-json-de-metadados.json",
+  "uri": "https://raw.githubusercontent.com/SuperPuggs/metadata.json/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/SuperPuggs/crypto/refs/heads/main/logo.png",
   "description": "SuperPuggs! We are a vibrant and passionate community that brings together gamers and cryptocurrency enthusiasts, with a special love for animals, especially adorable Pugs. Here, we seek a space where friendship, fun, and growth go hand in hand.",
